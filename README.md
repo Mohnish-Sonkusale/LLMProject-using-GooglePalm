@@ -15,8 +15,7 @@ Vector databases are specialized storage systems designed to house high-dimensio
 Streamlit is an open source python library/framework used to create and share webpages/front end applications, sometimes to check the actual output for the client.
 
 ### General Pipeline of PDF-Chatbot :
-Fetching text from uploaded pdf
-
+Fetching text from uploaded pdf/n
 Creating Chunks of extracted text
 Applying Embeddings on chunks and storing it in any Vector db
 Taking user query from prompt
