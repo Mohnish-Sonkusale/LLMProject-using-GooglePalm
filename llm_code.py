@@ -18,7 +18,7 @@ vectordb_file_path = "faiss_index" # it will create folder directory
 
 def create_vector():
     # load the CSV file
-    loader = CSVLoader(file_path='codebasics_faqs.csv', source_column = "prompt")
+    loader = CSVLoader(file_path='CSV_FILE', source_column = "prompt")
     data = loader.load()
 
     # Create embedding by sung FAISS_db
