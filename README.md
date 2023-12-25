@@ -1,6 +1,6 @@
 # Q&A Chatbot-using-GooglePalm/LLM/FaissDB/streamlit
-## PDF-Chatbot
-PDF Q&A chatbot using LangChain and GooglePalm
+## Conversational-Chatbot
+CSV Q&A chatbot using LangChain and GooglePalm
 
 ## LangChain:
 LangChain is a orchestration framework for LLMs. It give us whole flexibility to use LLMs and utilize its intelligence as per our usecase.
