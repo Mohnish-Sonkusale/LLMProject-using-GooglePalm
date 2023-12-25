@@ -5,7 +5,7 @@ PDF Q&A chatbot using LangChain and Gemini Pro
 ## LangChain:
 LangChain is a orchestration framework for LLMs. It give us whole flexibility to use LLMs and utilize its intelligence as per our usecase.
 
-## Gemini Pro:
+## Google_Palm_key:
 Google AI Studio creates a new Google Cloud project for each new API key. You also can create an API key in an existing Google Cloud project. All projects are subject to the Google Cloud Platform. Create_key : https://makersuite.google.com/app/apikey
 
 ## Faiss Vector Database:
