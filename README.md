@@ -16,10 +16,17 @@ Streamlit is an open source python library/framework used to create and share we
 
 ### General Pipeline of PDF-Chatbot :
 Fetching text from uploaded pdf
+
 Creating Chunks of extracted text
+
 Applying Embeddings on chunks and storing it in any Vector db
+
 Taking user query from prompt
+
 Applying same Embeddings on query question text
+
 Searching and extracting most similar chunks from vector db using (using semantic search or cosine similariy)
+
 Passing most similar chunk along with question as an input prompt to LLM. (RAG)
+
 LLM will generate relevant output as per user question.
